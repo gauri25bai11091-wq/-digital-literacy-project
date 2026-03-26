@@ -51,7 +51,7 @@ This task increased my awareness about online risks and safety measures.
 - GitHub Profile: https://github.com/your-username  
 - LinkedIn Profile: https://www.linkedin.com/in/gauri-gupta-0716ba365/  
 - Kaggle Profile: https://www.kaggle.com/
-- Google Form: https://docs.google.com/forms/d/17XUgNg0WLG2c6N8ADxjPd0x1bsos2CdZTZ-qpRX3gDk/edit
+- Google Form: https://forms.gle/56rUHizgqDqjFLim9
 
 ---
 
