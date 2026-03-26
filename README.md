@@ -48,7 +48,7 @@ This task increased my awareness about online risks and safety measures.
 ---
 
 ## 🔗 Useful Links
-- GitHub Profile: https://github.com/your-username  
+- GitHub Profile: https://github.com/gauri25bai11091-wq/-digital-literacy-project
 - LinkedIn Profile: https://www.linkedin.com/in/gauri-gupta-0716ba365/  
 - Kaggle Profile: https://www.kaggle.com/
 - Google Form: https://forms.gle/56rUHizgqDqjFLim9
