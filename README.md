@@ -55,7 +55,7 @@ This task increased my awareness about online risks and safety measures.
 
 ---
 
-## ⭐ What I Learned
+##  What I Learned
 Through this project, I learned how to use different digital platforms, communicate professionally, and stay safe online. 
 It also improved my confidence in using technology for academic purposes.
 
