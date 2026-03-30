@@ -1,7 +1,7 @@
 #  Gauri Gupta
 
-🎓 **B.Tech in Computer Science (Specialization: AI & ML)**  
-📅 **1st Year (2025–2026)**  
+ **B.Tech in Computer Science (Specialization: AI & ML)**  
+ **1st Year (2025–2026)**  
 
 ---
 
