@@ -3,7 +3,7 @@
 
 **Name**: Gauri Gupta  
 **Registration No.**: 25BAI11091  
-**Course**: CSE001 (Digital Literacy)  
+**Course**: CSE0001 (Digital Literacy)  
 
 ---
 
